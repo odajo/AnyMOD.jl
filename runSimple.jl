@@ -1,5 +1,6 @@
 
 using AnyMOD, Gurobi
+# just checking it works
 
 # initialize a model object, first two arguments are the input and output directory
 # (objName specifies a model name, shortExp specifies the distance of years (e.g. 2015, 2020 ...), decomm = :none deactivates endogenous decommissioning) 
