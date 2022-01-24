@@ -1,0 +1,2 @@
+errStatus,section,location,message
+red,parameter read-in,modelData/general/par_demandRest.csv,"detected strings in value column, file was not read-in"
