@@ -76,4 +76,3 @@ res,wind,,resWindOnshoreOpt,,power,,,,stock
 x,,,xElectrolysis,power,hydrogen,,,,mature
 x,,,xFuelCell,hydrogen,power; heatLow,,,onlyPower; someHeat,mature
 x,,,xMethanation,hydrogen; biomass,gasSynth; gasBio,,,useBiomass; useHydrogen,mature
-y,,,,,,,,,
